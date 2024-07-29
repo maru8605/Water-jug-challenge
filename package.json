@@ -4,6 +4,8 @@
 	},
 	"scripts": {
 		"test": "jasmine"
+	},
+	"dependencies": {
+		"jsdom": "^24.1.1"
 	}
-  
 }
